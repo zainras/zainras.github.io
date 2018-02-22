@@ -1,6 +1,6 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: zainras
+description: My Code My Adventure
 cover: assets/images/home.jpeg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
@@ -23,7 +23,7 @@ permalink: /:title
 
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-81008608-3"
 
 # Build settings
 markdown: kramdown
